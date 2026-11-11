@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Sampad%20Sekhar%20Panigrahy&fontSize=48&fontColor=58A6FF&fontAlignY=36&desc=CSE%20(AI%20%26%20ML)%20Student%20%E2%80%A2%20Learning%20by%20Building&descAlignY=58&descSize=18&animation=fadeIn" alt="Sampad Sekhar Panigrahy — CSE (AI & ML) student" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Sampad%20Sekhar%20Panigrahy&fontSize=48&fontColor=58A6FF&fontAlignY=36&desc=CSE%20AI%20and%20ML%20Student%20-%20Learning%20by%20Building&descAlignY=58&descSize=18&animation=fadeIn" alt="Sampad Sekhar Panigrahy — CSE (AI & ML) student" width="100%" />
 </p>
 
 <p align="center">
